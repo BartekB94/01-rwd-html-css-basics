@@ -1,7 +1,7 @@
-See the live version of [Calculator](https://bartekb94.github.io/01-calculator/)
+See the live version of [Responsive Website](https://bartekb94.github.io/01-rwd-html-css-basics/)
 
 ###   Functionality 
-- responsive design for Desktop, Tablet and Mobile device
+- responsive website for Desktop, Tablet and Mobile device
 
 ---
 
