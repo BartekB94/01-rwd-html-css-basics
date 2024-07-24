@@ -1,0 +1,74 @@
+/* NAVBAR */
+
+.navbar__container {
+    background-color: transparent;
+    color: #fff;
+    position: relative;
+}
+
+.menu__bar-label {
+    display: none;
+}
+
+.navbar__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__container {
+    display: initial;
+}
+
+.menu__list {
+    display: flex;
+
+}
+
+.menu__buttton {
+    display: initial;
+}
+
+.menu__link:hover {
+    color: blueviolet;
+}
+
+/* HERO */
+
+.hero__container {
+    justify-content: center;
+    align-items: center;
+}
+
+.hero__text-container {
+    flex-basis: 60%;
+    width: 60%;
+}
+
+.hero__image-container {
+    flex-basis: 40%;
+    width: 40%;
+}
+
+.hero__image {
+    max-width: 700px;
+}
+
+/* DOWNLOAD */
+
+.download__container {
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 5rem;
+}
+
+/* FOOTER */
+
+.footer__item {
+    flex-basis: 20%;
+    width: 20%;
+}
+
+.footer__item:first-child {
+    flex-basis: 40%;
+    width: 40%;
+}
